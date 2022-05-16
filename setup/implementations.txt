@@ -1,0 +1,8 @@
+Spark
+Keras
+Scikit-learn
+Pytorch
+Matlab Deep Learning Toolbox
+ML.NET
+Mlpack
+Apache Mahout (MapReduce)

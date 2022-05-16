@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Evaluation": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Random Forest, Multilayer Perceptron, Linear Regression, K-Means\""
+    }
+  }
+}

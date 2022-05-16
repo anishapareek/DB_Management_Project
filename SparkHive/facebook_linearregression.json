@@ -1,0 +1,9 @@
+{
+    "DataLoadingTime": 0.14948630000000662,
+    "TrainingTime": 6.475119400000004,
+    "EvaluationTime": 2.0927625999999933,
+    "MeanSquaredError": 768.3001788825852,
+    "MeanAbsoluteError": 8.024992833532893,
+    "RSquared": 0.31727100228195537,
+    "RootMeanSquaredError": 27.71822827820323
+}

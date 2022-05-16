@@ -1,0 +1,9 @@
+AboloneSexSex
+AboloneLengthLength
+AboloneDiameterDiameter
+AboloneHeightHeight
+AboloneWhole weightWholeWeight
+AboloneShucked weightShuckedWeight
+AboloneViscera weightVisceraWeight
+AboloneShell weightShellWeight
+AboloneRingsRings

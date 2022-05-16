@@ -1,0 +1,7 @@
+{
+    "DataLoadingTime": 5.4802248,
+    "TrainingTime": 8.930684399999999,
+    "EvaluationTime": 0.8316833999999993,
+    "Accuracy": 0.7762845849802371,
+    "F1Score": 0.7689893754433814
+}

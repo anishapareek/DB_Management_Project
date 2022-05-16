@@ -1,0 +1,28 @@
+{
+  "DataLoadingTime": 0.2845619,
+  "TrainingTime": 4.5611483,
+  "EvaluationTime": 4.7137505,
+  "Accuracy": 0.7777777777777778,
+  "F1Score": 0.6595744680851063,
+  "ConfusionMatrix": {
+    "PerClassPrecision": [
+      0.6957605985037406,
+      0.8145251396648044
+    ],
+    "PerClassRecall": [
+      0.6269662921348315,
+      0.8566392479435958
+    ],
+    "Counts": [
+      [
+        279,
+        166
+      ],
+      [
+        122,
+        729
+      ]
+    ],
+    "NumberOfClasses": 2
+  }
+}
